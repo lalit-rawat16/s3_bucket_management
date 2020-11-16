@@ -6,5 +6,6 @@ secrets.py will have the access key and secret key.
 Current Operation
 - Upload files to S3 bucket based on the storage class selected by user
 - Provide the file path from where to upload
+- Integration of flask endpoints with Swagger UI to list S3 buckets
 
 
